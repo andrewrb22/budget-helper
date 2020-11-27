@@ -5,7 +5,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 On this application, The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 
-![](public\images\budget.png)
+![](https://github.com/andrewrb22/budget-helper/blob/main/public/images/budget.png)
 
 
 
